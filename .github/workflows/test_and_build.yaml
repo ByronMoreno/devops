@@ -42,3 +42,5 @@ jobs:
       with:
         push: true
         tags: ghcr.io/byronmoreno/devops:latest
+
+        #EmilioCarrion/productcrafter_videos

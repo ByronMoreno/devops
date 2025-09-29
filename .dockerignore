@@ -1,0 +1,24 @@
+# Ignorar entornos virtuales
+venv/
+.venv/
+
+# Ignorar control de versiones
+.git/
+.gitignore
+
+# Ignorar configuraciones de CI/CD
+.github/
+.gitlab-ci.yml
+
+# Ignorar cachés de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar dependencias locales
+*.egg-info/
+.eggs/
+
+# Otros innecesarios
+.DS_Store
+*.log
